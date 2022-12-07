@@ -1,0 +1,50 @@
+function add() {
+
+}
+
+function subtract() {
+
+}
+
+function multiply() {
+
+}
+
+function divide() {
+
+}
+
+function add(a, b) {
+    return a + b;
+}
+
+function subtract(a, b) {
+    return a - b;
+}
+
+function multiply(a, b) {
+    return a * b;
+}
+
+function divide(a,b) {
+    return a / b;
+}
+
+function increment(a) {
+    return (a + 1);
+}
+increment(10);
+
+function decrement(a) {
+    return (a - 1);
+}
+decrement(10);
+
+function makeInt(a) {
+    return parseInt(a , 10);
+}
+
+function preserveDecimal(a) {
+    return parseFloat(a);
+}
+
